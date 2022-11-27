@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+bz2_rl/__init__.py
+bz2_rl/bz2fileiter.py
+bz2_rl.egg-info/PKG-INFO
+bz2_rl.egg-info/SOURCES.txt
+bz2_rl.egg-info/dependency_links.txt
+bz2_rl.egg-info/top_level.txt
+bz2_rl.egg-info/zip-safe
+bz2_rl/tests/__init__.py
+bz2_rl/tests/test_bz2fileiter.py
